@@ -1,3 +1,21 @@
-title: Harshit Sharma
+title: <p align="center"> Harshit Sharma </p>
 logo: /assets/img/dp.PNG
+
+description:
+  <p align="center">
+
+  <a href="https://www.linkedin.com/in/harshit-sharma-980117168/">LinkedIn</a> |
+  <a href="https://github.com/harshitsharma496">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
 
