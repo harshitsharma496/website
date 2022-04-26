@@ -3,16 +3,14 @@ logo: /assets/img/dp.PNG
 
 description:
   <p align="center">
-
   <a href="https://www.linkedin.com/in/harshit-sharma-980117168/">LinkedIn</a> |
   <a href="https://github.com/harshitsharma496">GitHub</a>
   
   <br>   
   I'm working on Data Science,Machine learning & NLP related problems.
   Currently as DBA at infosys.
-  <br>
   </p>
-
+  
 
 
 theme: jekyll-theme-minimal
