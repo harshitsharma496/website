@@ -1,7 +1,7 @@
 ## Linear Regression
   It is type of supervised learning used when ouput of variable is <u> continuous </u> in nature
   
-### It can be divides in two types 
+### It can be divided in two types:
     * Simple Linear 
     * Multiple Linear 
    
