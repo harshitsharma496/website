@@ -31,7 +31,7 @@
   <li> Likelihood -  To find out the best fit sigmoid curve, vary β0 and β1 until you get the combination of beta values
                   that maximises the likelihood.
                   
-   <li> Odds        -  To find out probability of things to happen against not happening it's log is called as log odds   
+   <li> Odds        -  To find out probability of things to happen against not happening it's log is called as log odds   </li>
    
 ### To test strength of model we use below terms
    
