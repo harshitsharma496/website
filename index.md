@@ -28,7 +28,7 @@
      
 ### We use signmoid curve (S-shaped one)
    
-  <li> Likelihood <\li>   To find out the best fit sigmoid curve, vary β0 and β1 until you get the combination of beta values
+  <li> Likelihood </li>   To find out the best fit sigmoid curve, vary β0 and β1 until you get the combination of beta values
                   that maximises the likelihood.
                   
    Odds        -  To find out probability of things to happen against not happening it's log is called as log odds   
